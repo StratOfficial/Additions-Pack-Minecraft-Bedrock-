@@ -1,0 +1,45 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"Illusion",
+			"ExcitedName"
+		]
+	},
+	"header": {
+		"name": "Test",
+		"description": "Additions Pack RP",
+		"min_engine_version": [
+			1,
+			19,
+			60
+		],
+		"uuid": "777bf30d-3d60-406b-b382-d0fc43bd344d",
+		"version": [
+			1,
+			0,
+			5
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "2cdec518-c8be-42a7-b20f-94514c8d0c57",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "f5ca070e-e1eb-4c6a-9b17-ad93ec4a91cf",
+			"version": [
+				1,
+				0,
+				5
+			]
+		}
+	]
+}

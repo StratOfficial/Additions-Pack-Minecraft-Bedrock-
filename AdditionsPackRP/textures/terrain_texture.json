@@ -1,0 +1,11 @@
+{
+	"num_mip_levels": 4,
+	"padding": 8,
+	"resource_pack_name": "Test",
+	"texture_name": "atlas.terrain",
+	"texture_data": {
+		"tin_ore": {
+			"textures": "textures/blocks/tin_ore"
+		}
+	}
+}
