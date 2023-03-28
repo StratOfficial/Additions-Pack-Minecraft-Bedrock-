@@ -1,0 +1,27 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "ap:bronze_ingot"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"T": {
+				"item": "ap:tin_ingot"
+			},
+			"C": {
+				"item": "minecraft:copper_ingot"
+			}
+		},
+		"pattern": [
+			"TTT",
+			"TCC",
+			"CC "
+		],
+		"result": {
+			"item": "ap:bronze_ingot"
+		}
+	}
+}
